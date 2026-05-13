@@ -19,7 +19,7 @@ const IMPREVISTI = [
 
   {
     emoji: "🚀",
-    testo: "Il cioccolato ti porta bene — avanza di 3 caselle!"
+    testo: "Il cioccolato ti porta bene, avanza di 3 caselle!"
   },
   {
     emoji: "🐌",
@@ -39,7 +39,7 @@ const IMPREVISTI = [
   },
   {
     emoji: "🎲",
-    testo: "Oggi è il tuo giorno fortunato — pesca ancora!"
+    testo: "Oggi è il tuo giorno fortunato,  pesca ancora!"
   },
   {
     emoji: "⏸️",
@@ -47,19 +47,19 @@ const IMPREVISTI = [
   },
   {
     emoji: "💪",
-    testo: "Il cioccolato non si smaltisce da solo — 5 flessioni, forza!"
+    testo: "Il cioccolato non si smaltisce da solo. 5 flessioni, forza!"
   },
   {
     emoji: "💋",
-    testo: "Bocca dolce come il cioccolato — dai un bacio a chi vuoi!"
+    testo: "Bocca dolce come il cioccolato, dai un bacio a chi vuoi!"
   },
   {
     emoji: "🐾",
-    testo: "Sei così in gamba che meriti una pausa — 10 minuti di grattini all'avversario!"
+    testo: "Sei così in gamba che meriti una pausa: 10 minuti di grattini all'avversario!"
   },
   {
     emoji: "🦶",
-    testo: "L'avversario ha camminato tanto per arrivare fin qui — massaggio ai piedi, su!"
+    testo: "L'avversario ha camminato tanto per arrivare fin qui: massaggio ai piedi, su!"
   },
 
   // --- AGGIUNGI QUI I TUOI IMPREVISTI ---
