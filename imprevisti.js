@@ -26,12 +26,12 @@ const IMPREVISTI = [
     testo: "Hai preso l'M&M sbagliato... torna indietro di 2!"
   },
   {
-    emoji: "🪜",
-    testo: "Scala sociale in ascesa! Corri alla prossima scala."
+    emoji: "🍫",
+    testo: "Zuccheri in circolo! Arrampicati sulla prossima tavoletta di cioccolato fino in cima."
   },
   {
-    emoji: "🐍",
-    testo: "Ssssfortuna! Striscia fino al prossimo serpente."
+    emoji: "🌀", 
+    testo: "Scivolone alla liquirizia! Srotolati giù fino alla fine della prossima rotella."
   },
   {
     emoji: "🍽️",
